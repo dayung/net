@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Dayung</title>
+ <link href="http://dayung.net/atom.xml" rel="self"/>
+ <id>http://dayung.net</id>
+ <updated>2018-01-01T04:28:28+07:00</updated>
+ <author>
+   <name>dayung</name>
+   <uri>https://dayung.net</uri>
+   <email>mailbox@dayung.net</email>
+ </author>
+
+ 
+
+</feed>
